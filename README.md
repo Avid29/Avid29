@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adam Dernis</h1>
 <h3 align="center">Computer Science Student at Rochester Institute of Technology.</h3>
 
-
-<p><img align="right" src="https://github.com/Avid29/Avid29/blob/ae023f370608c4f38bb9e1c29a06774e9f921672/desk_animation.gif" alt="Avid29" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Avid29&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="Avid29" /></p>
+<!--<p><img align="right" src="https://github.com/Avid29/Avid29/blob/ae023f370608c4f38bb9e1c29a06774e9f921672/desk_animation.gif" alt="Avid29" /></p>-->
 
 <!--
 - 🌱 I’m currently studing Global Illuminations and Concept of Computer Systems
@@ -17,7 +18,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/Adam-Dernis/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
+      alt="Adam Dernis" height="30" width="40" /></a>
 </p>
 <br>
 
@@ -78,10 +79,8 @@
     bg_color=#808080/></p>
 
 <br>
--->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Avid29&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="Avid29" /></p>
-<!--
 <br>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Avid29&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Avid29" /></p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
