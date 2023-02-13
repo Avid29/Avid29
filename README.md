@@ -4,7 +4,7 @@
 
 <p><img align="right" src="https://github.com/Avid29/Avid29/blob/ae023f370608c4f38bb9e1c29a06774e9f921672/desk_animation.gif" alt="Avid29" /></p>
 
-
+<!--
 - 🌱 I’m currently studing Global Illuminations and Concept of Computer Systems
 
 - 📫 How to reach me **avid29@live.com**
@@ -12,14 +12,13 @@
 - ⚡ Fun fact :- I am a student-athlete with RIT Rowing
 
 <br>
-
+-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/Adam-Dernis/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
 </p>
-
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -72,24 +71,21 @@
 
 <br>
 
-<h3>Statistical Data </h3>
+<!--<h3>Statistical Data </h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Avid29&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="Avid29" 
     bg_color=#808080/></p>
 
 <br>
-
+-->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Avid29&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="Avid29" /></p>
-
+<!--
 <br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Avid29&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Avid29" /></p>
-      
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Avid29&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Avid29" /></p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+-->
 
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=Avid29&label=Profile%20views&color=0e75b6&style=flat" alt="Avid29" /> 
-</div>
+<p><img src="https://komarev.com/ghpvc/?username=Avid29&label=Profile%20views&color=0e75b6&style=flat" alt="Avid29" /> </p>
