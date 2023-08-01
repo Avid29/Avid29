@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Adam Dernis</h1>
 <h3 align="center">Computer Science Student at Rochester Institute of Technology.</h3>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Avid29&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="Avid29" /></p>
+<!--<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Avid29&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="Avid29" /></p>-->
 <!--<p><img align="right" src="https://github.com/Avid29/Avid29/blob/ae023f370608c4f38bb9e1c29a06774e9f921672/desk_animation.gif" alt="Avid29" /></p>-->
 
 <!--
